@@ -1,6 +1,5 @@
 dependencies:
   - matplotlib
   - numpy
-  - pip
-  - pip:
-    - lal
+  - lal-0.0.10
+  
