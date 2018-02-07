@@ -1,8 +1,6 @@
-name: environment
-channels:
-  - conda-forge
 dependencies:
-  - python
-  - numpy
   - matplotlib
-  - minlal
+  - numpy
+  - pip
+  - pip:
+- julia
