@@ -1,1 +1,8 @@
-asd
+name: environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - lal
