@@ -3,4 +3,5 @@ lal==0.0.10
 matplotlib==2.0.2 
 seaborn==0.8.1
 scipy
+numpy.lib.utils
 pycbc-pylal==1.0.2
