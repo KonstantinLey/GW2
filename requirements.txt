@@ -1,2 +1,2 @@
-numpy==1.13.0
-lal==0.0.10
+numpy
+lal
