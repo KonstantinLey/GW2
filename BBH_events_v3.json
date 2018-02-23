@@ -1,0 +1,35 @@
+{
+  "GW150914":{
+      "name":"GW150914",
+      "fn_H1"       : "H-H1_LOSC_4_V2-1126259446-32.hdf5",
+      "fn_L1"       : "L-L1_LOSC_4_V2-1126259446-32.hdf5",
+      "fn_template" : "GW150914_4_template.hdf5",
+      "fs"          : 4096,
+      "tevent"      : 1126259462.44,
+      "utcevent"    : "2015-09-14T09:50:45.44",
+      "m1"          : 41.743,
+      "m2"          : 29.237,
+      "a1"          : 0.355,
+      "a2"          : -0.769,
+      "approx"      : "lalsim.SEOBNRv2",
+      "fband"       : [43.0,300.0],
+      "f_min"       : 10.0
+  },    
+  "GW170817":{
+      "name":"GW170817",
+      "fn_H1"       : "H-H1_LOSC_CLN_4_V1-1187007040-2048.hdf5",
+      "fn_L1"       : "L-L1_LOSC_CLN_4_V1-1187007040-2048.hdf5",
+      "fn_V1"       : "V-V1_LOSC_CLN_4_V1-1187007040-2048.hdf5",
+      "fn_template" : "GW150914_4_template.hdf5",
+      "fs"          : 4096,
+      "tevent"      : 1187008882.43,
+      "utcevent"    : "2017-08-17T12:41:04.43",
+      "m1"          : 1.5,
+      "m2"          : 1.25,
+      "a1"          : 0,
+      "a2"          : 0,
+      "approx"      : "lalsim.SEOBNRv2",
+      "fband"       : [43.0,300.0],
+      "f_min"       : 10.0
+  }
+}
