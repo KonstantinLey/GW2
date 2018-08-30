@@ -1,5 +1,5 @@
 numpy
-lal
+lalsuite
 matplotlib
 seaborn
 scipy
